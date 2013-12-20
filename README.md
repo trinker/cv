@@ -15,4 +15,5 @@ Curriculum Vitae for Tyler Rinker
 <a href="http://stackoverflow.com/users/1000343/tyler-rinker" target="_blank">![](icons/stackoverflow.png)</a>
 <a href="mailto:tyler.rinker@gmail.com" target="_blank">![](icons/mail.png)</a>
 <a href="tel:716-472-2642" target="_blank">![](icons/phone.png)</a>
+<a href="skype:tyler.rinker?call">![](icons/skype.png)</a>
 
