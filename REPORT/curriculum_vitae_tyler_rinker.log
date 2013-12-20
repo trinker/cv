@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2013.9.15)  19 DEC 2013 10:00
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2013.9.15)  20 DEC 2013 09:19
 entering extended mode
 **curriculum_vitae_tyler_rinker.tex
 
@@ -363,9 +363,9 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
  [1
 
 {C:/Users/trinker/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-Overfull \hbox (18.05368pt too wide) in paragraph at lines 198--199
+Overfull \hbox (12.80373pt too wide) in paragraph at lines 198--199
 \OT1/cmr/m/n/10 0.2.0. Uni-ver-sity at Buf-falo. Buf-falo, New York. [][]\OT1/c
-mtt/m/n/10 http://github.com/trinker/reports[][] 
+mtt/m/n/10 http://github.com/trinker/pacman[][] 
  []
 
 [2] 
@@ -399,9 +399,9 @@ ogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Progra
 m Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program 
 Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Fi
 les (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on curriculum_vitae_tyler_rinker.pdf (3 pages, 135845 bytes).
+Output written on curriculum_vitae_tyler_rinker.pdf (3 pages, 135637 bytes).
 PDF statistics:
- 157 PDF objects out of 1000 (max. 8388607)
+ 156 PDF objects out of 1000 (max. 8388607)
  25 named destinations out of 1000 (max. 500000)
  121 words of extra memory for PDF output out of 10000 (max. 10000000)
 
