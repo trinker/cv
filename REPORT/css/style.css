@@ -1,0 +1,184 @@
+h1 { font-family:Serif; text-align: left; font-face: times new roman ; font-size: 32px; color: #003300; text-transform:capitalize; font-weight:bold; text-indent: 3.0em;}
+
+h2 { font-family:Serif; text-align: left; font-face: times new roman ; font-size: 18px; color: #000000; text-transform:capitalize; font-weight:bold; text-indent: 5.5em;}
+
+h3 { font-family:Serif; text-align: left; font-face: times new roman ; font-size: 18px; color: #000000; font-weight:bold; text-indent: 5.5em;}
+
+h4 { font-family:Serif; text-align: left; font-face: times new roman ; font-size: 18px; color: #000000; font-style:italic; font-weight:bold; text-indent: 5.5em;}
+
+h5 { font-family:Serif; text-align: left; font-face: times new roman ; font-size: 18px; color: #000000; font-style:italic; text-indent: 5.5em;}
+
+h6 { font-family:Serif; text-align: center; font-face: times new roman ; font-size: 18px; color: #000000; text-transform:capitalize; text-indent: 5.5em;}
+
+body, td {
+   font-family:Serif;
+   font-face: times new roman ;
+   text-align: justify ;
+   background: #efefef;
+   font-size: 18px;
+   margin: 8px;
+}
+
+body {
+    margin: 5em auto auto 7em;
+}
+
+
+code.r, code.cpp {
+   background-color: #F8F8F8;
+}
+
+table {
+    border: none;
+	margin: 0;
+    padding: 0;
+    width: 75.5em;  
+    margin-left: 14%;
+    table-layout:fixed;
+}
+
+
+blockquote {
+   margin:0;
+   padding-left: 50px;
+   border-left: 0.5em #EEE solid;
+}
+
+hr {
+   height: 0px;
+   border-bottom: none;
+   border-top-color: #999999;
+}
+
+@media print {
+   * { 
+      background: transparent !important; 
+      color: black !important; 
+      filter:none !important; 
+      -ms-filter: none !important; 
+   }
+
+   body { 
+      font-size:18pt; 
+      max-width:100%; 
+   }
+       
+   a, a:visited { 
+      text-decoration: underline; 
+   }
+
+   hr { 
+      visibility: hidden;
+      page-break-before: always;
+   }
+
+   pre, blockquote { 
+      padding-right: 1em; 
+      page-break-inside: avoid; 
+   }
+
+   tr, img { 
+      page-break-inside: avoid; 
+   }
+
+   img { 
+      max-width: 100% !important; 
+   }
+
+}
+
+
+@page { 
+   @top-left{
+       font-family: Helvetica, Arial, sans-serif; 
+       font-size: 18pt; 
+       font-weight: bolder; 
+       content: "XHTML-Print: A Proposal --- August 25, 2000"; 
+   } 
+ } 
+
+.icon img {
+  float: right;
+  border: 1px solid #ccc;
+}
+
+.index .internal {display: none;}
+ul.index li {
+	margin-bottom: 5.5em; 
+	clear: both;
+}
+
+li {
+    margin-left: 6.5em;
+}
+
+div, iframe {
+    margin: 0 auto;
+	display:block;
+}
+
+.post img { display: block; margin-left: auto; margin-right: auto ; }
+
+.hangingindent {
+    margin-left: 10px; 
+    padding-left: 35px ;
+    text-indent: -35px ;
+}
+
+.tab { text-indent: 50px; }
+
+.block { 
+	margin-left: 50px; 
+	margin-right: 50px; 	
+}
+
+
+.rChart {
+  display: block;
+  margin-left: auto; 
+  margin-right: auto;
+  width: 800px;
+  height: 500px;
+} 
+ 
+ 
+.SingleSpace{line-height: 0em;}
+.DoubleSpace{line-height: 2em;}
+
+.textbox {
+    border-radius: 5px; 
+    color: #FFFFFF;
+    font-weight:bold;
+    padding:10px; 
+    border: 3px solid #990000;
+    background-color: #FF0000;
+}
+
+.form_left {
+    float:left;
+}
+
+
+.container {
+box-shadow: 10px 10px 5px #888888;
+    width: 70%;
+    margin: 15em auto 5em;
+    margin-bottom:-9em;
+    margin-top:5em;
+    background: #FFF;
+}
+.container p {
+	padding-left: 14%;
+	padding-right: 10%;
+}
+
+
+footer {
+  margin-top: 45px;
+  padding: 35px 0px 36px;
+  border-top: 1px solid #e5e5e5;
+}
+footer p {
+  margin-bottom: 0px;
+  color: #555;
+}
