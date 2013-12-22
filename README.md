@@ -3,7 +3,7 @@ Curriculum Vitae for Tyler Rinker
 [Click Here](http://htmlpreview.github.io/?https://github.com/trinker/cv/blob/master/REPORT/curriculum_vitae_tyler_rinker.html) to for web based curriculum vitae      
 [Click Here](https://github.com/trinker/cv/blob/master/REPORT/curriculum_vitae_tyler_rinker.pdf?raw=true) to download pdf curriculum vitae
 
-<a href="http://about.me/tylerrinker" target="_blank">![](icons/aboutme.png)</a>
+<a style="margin-left: 4.5%;" href="http://about.me/tylerrinker" target="_blank">![](icons/aboutme.png)</a>
 <a href="http://www.linkedin.com/pub/tyler-rinker/39/36b/1a0" target="_blank">![](icons/linkedin.png)</a>
 <a href="https://www.researchgate.net/profile/Tyler_Rinker" target="_blank">![](icons/researchgate.png)</a>
 <a href="https://github.com/trinker" target="_blank">![](icons/github_2.png)</a>
