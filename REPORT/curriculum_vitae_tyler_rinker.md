@@ -41,7 +41,7 @@ Buffalo, NY 14260-1000 </div>
 - Discourse analysis
 - New literacies/multimodality
 - Classroom student engagement
-- Teacher professional development.
+- Teacher professional development
 
 ## Education
 

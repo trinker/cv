@@ -17,3 +17,4 @@ Curriculum Vitae for Tyler Rinker
 <a href="tel:716-472-2642" target="_blank">![](icons/phone.png)</a>
 <a href="skype:tyler.rinker?call">![](icons/skype.png)</a>
 
+

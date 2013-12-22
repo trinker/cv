@@ -42,7 +42,7 @@ library(reports)
 - Discourse analysis
 - New literacies/multimodality
 - Classroom student engagement
-- Teacher professional development.
+- Teacher professional development
 
 ## Education
 
