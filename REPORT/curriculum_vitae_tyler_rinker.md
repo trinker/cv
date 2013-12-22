@@ -246,7 +246,7 @@ Literacy Research Association Conference Reviewer
     
 ## References
 
-<div style="width: 100%;">
+<div style="width: 100%; margin-bottom:1cm;">
     <div style="margin-left: 14.5%; width: 53%; float: left;"> <a href="http://gse.buffalo.edu/about/directory/faculty/2039"> Mary B. McVee </a> <br>
 &nbsp;&nbsp;&nbsp; Associate Professor &   <br>    
 &nbsp;&nbsp;&nbsp; Director of the Center for Literacy and Reading Instruction <br> 
@@ -257,9 +257,7 @@ Literacy Research Association Conference Reviewer
  </div> 
 </div> 
 
-<br>
-
-<div style="width: 100%;">
+<div style="width: 100%; margin-bottom:1cm;">
     <div style="margin-left: 14.5%; width: 53%; float: left;"> <a href="http://gse.buffalo.edu/about/directory/faculty/2110"> Lynn E. Shanahan </a> <br>
 &nbsp;&nbsp;&nbsp; Assistant Professor  <br>    
 &nbsp;&nbsp;&nbsp; Department of Learning and Instruction <br>     
