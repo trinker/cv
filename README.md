@@ -1,7 +1,7 @@
 Curriculum Vitae for Tyler Rinker
 ===
-
-[Click Here](https://github.com/trinker/cv/blob/master/REPORT/curriculum_vitae_tyler_rinker.pdf?raw=true) to download curriculum vitae for Tyler Rinker
+[Click Here](http://htmlpreview.github.io/?https://github.com/trinker/cv/blob/master/REPORT/curriculum_vitae_tyler_rinker.html) to for web based curriculum vitae for Tyler Rinker
+[Click Here](https://github.com/trinker/cv/blob/master/REPORT/curriculum_vitae_tyler_rinker.pdf?raw=true) to download pdf curriculum vitae for Tyler Rinker
 
 <a href="http://about.me/tylerrinker" target="_blank">![](icons/aboutme.png)</a>
 <a href="http://www.linkedin.com/pub/tyler-rinker/39/36b/1a0" target="_blank">![](icons/linkedin.png)</a>
