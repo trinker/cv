@@ -87,14 +87,7 @@ Buffalo, NY 14260-1000 </div>
 
 \RS
 
-Aloe, A. M., Shisler, S. M., Norris, B. D., Nickerson, A. B., & Rinker,
-T. W. (in press). A multivariate meta-analysis of student misbehavior
-and teacher burnout. *Educational Research Review*.
 
-McVee, M. B., McGrath, K., & Rinker, T. W. (in press). A
-phenomenological study of narrative interviews with parents of
-struggling readers: Bringing parent voices into the academy. *Research
-Reading Quarterly*.
 
 \RE
 
@@ -113,6 +106,18 @@ Emerald Press.
 
 ## Submitted Journal Publications
 
+\RS
+
+Aloe, A. M., Shisler, S. M., Norris, B. D., Nickerson, A. B., & Rinker,
+T. W. (2014). A multivariate meta-analysis of student misbehavior
+and teacher burnout. *Educational Research Review*. Manuscript submitted for publication.
+
+McVee, M. B., McGrath, K., & Rinker, T. W. (2014). A
+phenomenological study of narrative interviews with parents of
+struggling readers: Bringing parent voices into the academy. *Research
+Reading Quarterly*. Manuscript submitted for publication.
+
+\RE
 
 ## Papers in Preparation
 

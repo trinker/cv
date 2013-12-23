@@ -1,8 +1,9 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2013.9.15)  21 DEC 2013 14:59
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2013.9.15)  23 DEC 2013 11:04
 entering extended mode
-**curriculum_vitae_tyler_rinker.tex
+**C:/Users/trinker/Desktop/PhD*Program/cv/REPORT/curriculum_vitae_tyler_rinker.
+tex
 
-("C:\Users\trinker\Desktop\PhD Program\cv\REPORT\curriculum_vitae_tyler_rinker.
+("C:/Users/trinker/Desktop/PhD Program/cv/REPORT/curriculum_vitae_tyler_rinker.
 tex"
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
@@ -363,7 +364,7 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
  [1
 
 {C:/Users/trinker/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-Overfull \hbox (12.80373pt too wide) in paragraph at lines 197--198
+Overfull \hbox (12.80373pt too wide) in paragraph at lines 195--196
 \OT1/cmr/m/n/10 0.2.0. Uni-ver-sity at Buf-falo. Buf-falo, New York. [][]\OT1/c
 mtt/m/n/10 http://github.com/trinker/pacman[][] 
  []
@@ -371,17 +372,17 @@ mtt/m/n/10 http://github.com/trinker/pacman[][]
 [2] 
 AED: lastpage setting LastPage
 [3]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 237.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 237.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 235.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 235.
 
 ("C:\Users\trinker\Desktop\PhD Program\cv\REPORT\curriculum_vitae_tyler_rinker.
 aux")
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 237.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 237.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 235.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 235.
 Package rerunfilecheck Info: File `curriculum_vitae_tyler_rinker.out' has not c
 hanged.
 (rerunfilecheck)             Checksum: B5FB01B945A355FF4861BCCDCEB155AF;833.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 237.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 235.
  ) 
 Here is how much of TeX's memory you used:
  5916 strings out of 493921
@@ -390,7 +391,7 @@ Here is how much of TeX's memory you used:
  9153 multiletter control sequences out of 15000+200000
  5368 words of font info for 20 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 31i,13n,43p,434b,466s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 31i,13n,43p,481b,470s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb>
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C
 :/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:
@@ -399,7 +400,7 @@ ogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Progra
 m Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program 
 Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Fi
 les (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on curriculum_vitae_tyler_rinker.pdf (3 pages, 135200 bytes).
+Output written on curriculum_vitae_tyler_rinker.pdf (3 pages, 135248 bytes).
 PDF statistics:
  156 PDF objects out of 1000 (max. 8388607)
  25 named destinations out of 1000 (max. 500000)
