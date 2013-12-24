@@ -128,7 +128,7 @@ in explicit strategy instruction. (Presentation for the Literacy
 Research Association Annual Conference & Related Article Submission).
 
 Erekson, J., McVee, M. B., Rinker, T. W, & et al. (2013). Ten best ideas for reading teachers: A retrospective analysis. (Presentation for the Literacy
-Research Association Annual Conference)
+Research Association Annual Conference).
 
 \RE
 
