@@ -156,18 +156,18 @@ Research Association, San Diego, CA.
 \RS
 
 Erekson, J., McVee, M. B., Rinker, T. W., & et al. (2013, December). <em>Ten best ideas
-for reading teachers: A retrospective analysis</em>.  Paper presented at the 
-Literacy Research Association, Dallas, TX.
+for reading teachers: A retrospective analysis</em>.  (Presentation for the 
+Literacy Research Association Annual Conference).
 
 Rinker, T. W. and McVee, M. B. (2013, December). *Student Engagement
 with Mediational Tools in a Literacy Clinic: A Multimodal Examination of
-Clinician Designed Materials*. Paper presented at the Literacy Research
-Association, Dallas, TX.
+Clinician Designed Materials*. (Presentation for the Literacy Research 
+Association Annual Conference).
 
 Rinker, T. W., McVee, M. B., Cho, Y. and Schiller, J. A. (2012,
 November). *The Overlooked Role of Teacher Feedback During Literacy
 Instruction: Tensions Between Engagement, Embodiment, and Ipseity*.
-Paper presented at the Literacy Research Association, San Diego, CA.
+(Presentation for the Literacy Research Association Annual Conference).
 
 
 \RE
@@ -219,15 +219,20 @@ at Buffalo, SUNY.
 
 ## Computer Software Development
 
-### Computer and Document Languages:
-
-R, LaTeX, HTML, CSS, R Markdown
-
-#### Program Development
+<h3 style="margin-left:49px;"> Computer and Document Languages: </h3>
 
 \RS
 
- Rinker, T. W. (2014). embodied: Embodiment related analysis tools.  University at Buffalo. Buffalo, New York. <http://github.com/trinker/embodied>
+R, LaTeX, HTML, CSS, R Markdown
+
+\RE
+
+<h3 style="margin-left:48px;"> Program Development </h3>
+
+\RS
+
+Rinker, T. W. (2014). embodied: Embodiment related analysis tools.  University 
+at Buffalo. Buffalo, New York. <http://github.com/trinker/embodied>
  
 Rinker, T. W. (2013). [qdap: Quantitative Discourse Analysis
 Package](http://cran.r-project.org/web/packages/qdap/index.html).  University at 
@@ -249,7 +254,12 @@ York. <http://github.com/trinker/metaDAT>
 
 ## Service
 
-Literacy Research Association Conference Reviewer
+<div style="width: 100%;">
+  <div style="margin-left: 14.5%; width: 40%; float: left;"> Literacy Research Association Conference Reviewer
+  </div>
+    <div style="width: 80%;text-align:right;"> Sept 2013 </div> 
+</div>
+
 
 ## Professional Memberships
 
