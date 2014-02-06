@@ -31,15 +31,14 @@ Buffalo, NY 14260-1000 </div>
 <em>Web</em>: <a href="about.me/tylerrinker">about.me/tylerrinker</a> </div> 
 </div> 
 
-```{r, echo=FALSE, include=FALSE}
-library(reports)
-```
+
+
 
 ## Research Interests
 
 - Development of literacy research methods
-- Quantitative/qualitative discourse analysis
-- Data visualization 
+- Data visualization
+- Discourse analysis
 - New literacies/multimodality
 - Classroom student engagement
 - Teacher professional development
@@ -49,20 +48,20 @@ library(reports)
 
 [**University at Buffalo, SUNY**](http://www.buffalo.edu/) Buffalo, NY  
 
-`r HS(3)` Ph.D., [Reading Education](http://gse.buffalo.edu/lai/doc), *Expected:* Summer 2015      
-`r HS(3)` Thesis Topic: *UNDECIDED*    
-`r HS(3)` Adviser: [Lynn E. Shanahan, Ph.D.](http://gse.buffalo.edu/about/directory/faculty/2110)    
+&nbsp;&nbsp;&nbsp; Ph.D., [Reading Education](http://gse.buffalo.edu/lai/doc), *Expected:* Summer 2015      
+&nbsp;&nbsp;&nbsp; Thesis Topic: *UNDECIDED*    
+&nbsp;&nbsp;&nbsp; Adviser: [Lynn E. Shanahan, Ph.D](http://gse.buffalo.edu/about/directory/faculty/2110)    
 
 [**Buffalo State College, SUNY**](http://www.buffalostate.edu/) Buffalo, NY 
 
-`r HS(3)` C.A.S., [Educational Leadership](http://www.buffalostate.edu/gradprog.xml?bpid=27), Spring 2009    
-`r HS(3)` Adviser: [Nancy Chicola,Ph.D.](http://elementaryeducation.buffalostate.edu/faculty/nancy-chicola)     
+&nbsp;&nbsp;&nbsp; C.A.S., [Educational Leadership](http://www.buffalostate.edu/gradprog.xml?bpid=27), Spring 2009    
+&nbsp;&nbsp;&nbsp; Adviser: [Nancy Chicola,Ph.D](http://elementaryeducation.buffalostate.edu/faculty/nancy-chicola)     
 
-`r HS(3)` M.S., [Childhood & Early Childhood Curriculum & Instruction](http://www.buffalostate.edu/gradprog.xml?bpid=27), Spring 2007       
+&nbsp;&nbsp;&nbsp; M.S., [Childhood & Early Childhood Curriculum & Instruction](http://www.buffalostate.edu/gradprog.xml?bpid=27), Spring 2007       
 
 [**Houghton College**](http://www.houghton.edu/) Buffalo, NY 
 
-`r HS(3)` B.S., [Elementary Education](http://www.houghton.edu/education/), Spring 2002    
+&nbsp;&nbsp;&nbsp; B.S., [Elementary Education](http://www.houghton.edu/education/), Spring 2002    
 
 ## Research Experience
 
@@ -72,17 +71,17 @@ library(reports)
     <div style="margin-left: 14%; width: 30%; float: left;"> <b>Research Project Manager</b> </div>
     <div style="width: 80%;text-align:right;"> Sept 2012 to present </div> 
 </div>        
-`r HS(3)` [Center for Literacy and Reading Instruction](http://clari.buffalo.edu),       
-`r HS(3)` University at Buffalo, SUNY     
-`r HS(3)` Supervisor: Mary M. McVee, Ph.D.   
+&nbsp;&nbsp;&nbsp; [Center for Literacy and Reading Instruction](http://clari.buffalo.edu),       
+&nbsp;&nbsp;&nbsp; University at Buffalo, SUNY     
+&nbsp;&nbsp;&nbsp; Supervisor: Mary M. McVee, Ph.D    
 
 <div style="width: 100%; margin-bottom:-.45cm;">
     <div style="margin-left: 14%; width: 30%; float: left;"> <b>Graduate Assistant</b>  </div>
     <div style="width: 80%;text-align:right;"> Sept 2010 to Jan 2011  </div> 
 </div>      
-`r HS(3)` Department of Learning and Instruction,     
-`r HS(3)` University at Buffalo, SUNY       
-`r HS(3)` Supervisors: Lynn E. Shanahan, Ph.D.    
+&nbsp;&nbsp;&nbsp; Department of Learning and Instruction,     
+&nbsp;&nbsp;&nbsp; University at Buffalo, SUNY       
+&nbsp;&nbsp;&nbsp; Supervisors: Lynn E. Shanahan, Ph.D     
 
 ## Refereed Journal Publications
 
@@ -124,20 +123,12 @@ Reading Quarterly*. Manuscript submitted for publication.
 
 \RS
 
-Erekson, J., McVee, M. B., Rinker, T. W., & et al. (2013). <em>Ten best ideas
-for reading teachers: A retrospective analysis</em>. Paper presented at the Literacy
-Research Association, Dallas, TX.
+Shanahan, L. E., Tochelli, A. L., & Rinker, T. W. (2013). Teacher growth
+in explicit strategy instruction. (Presentation for the Literacy
+Research Association Annual Conference & Related Article Submission).
 
-Rinker, T. W. and McVee, M. B. (2013). <em>Student Engagement with
-Mediational Tools in a Literacy Clinic: A Multimodal Examination of Clinician
-Designed Materials</em>. Paper presented at the Literacy Research Association, Dallas,
-TX.
-
-
-Rinker, T. W., McVee, M. B., Cho, Y. and Schiller, J. A. (2012).
-<em> The Overlooked Role of Teacher Feedback During Literacy Instruction: Tensions
-Between Engagement, Embodiment, and Ipseity</em>. Paper presented at the Literacy
-Research Association, San Diego, CA.
+Erekson, J., McVee, M. B., Rinker, T. W, & et al. (2013). Ten best ideas for reading teachers: A retrospective analysis. (Presentation for the Literacy
+Research Association Annual Conference).
 
 \RE
 
@@ -152,28 +143,23 @@ Research Association, San Diego, CA.
 ## Presentations
 
 
-<h3 style="margin-left:49px;"> National Presentations </h3>
+### National Presentations
 
 \RS
-
-Erekson, J., McVee, M. B., Rinker, T. W., & et al. (2013, December). <em>Ten best ideas
-for reading teachers: A retrospective analysis</em>.  Paper presented at the 
-Literacy Research Association, Dallas, TX.
-
-Rinker, T. W. and McVee, M. B. (2013, December). *Student Engagement
-with Mediational Tools in a Literacy Clinic: A Multimodal Examination of
-Clinician Designed Materials*. Paper presented at the Literacy Research
-Association, Dallas, TX.
 
 Rinker, T. W., McVee, M. B., Cho, Y. and Schiller, J. A. (2012,
 November). *The Overlooked Role of Teacher Feedback During Literacy
 Instruction: Tensions Between Engagement, Embodiment, and Ipseity*.
 Paper presented at the Literacy Research Association, San Diego, CA.
 
+Rinker, T. W. and McVee, M. B. (2013, December). *Student Engagement
+with Mediational Tools in a Literacy Clinic: A Multimodal Examination of
+Clinician Designed Materials*. Paper presented at the Literacy Research
+Association, Dallas, TX.
 
 \RE
 
-<h3 style="margin-left:49px;"> Professional Presentations: Invited </h3>
+### Professional Presentations: Invited
 
 \RS
 
@@ -209,22 +195,14 @@ at Buffalo, SUNY.
 
 ## Teaching Experience
 
-% <div style="width: 100%; margin-bottom:-.45cm;">
-%     <div style="margin-left: 14%; width: 30%; float: left;"> Instructor  </div>
-%     <div style="width: 80%;text-align:right;"> Fall 2014  </div> 
-% </div>
-% `r HS(3)` LAI 556 - Classroom-Based Literacy Assessment         
-% `r HS(3)` Department of Learning and Instruction   
-% `r HS(3)` University at Buffalo, SUNY    
-
 <div style="width: 100%; margin-bottom:-.45cm;">
     <div style="margin-left: 14%; width: 30%; float: left;"> Co-instructor  </div>
     <div style="width: 80%;text-align:right;"> Spring 2013  </div> 
 </div>
-`r HS(3)` LAI 556 - Classroom-Based Literacy Assessment     
-`r HS(3)` with Lynn E. Shanahan     
-`r HS(3)` Department of Learning and Instruction   
-`r HS(3)` University at Buffalo, SUNY     
+&nbsp;&nbsp;&nbsp; LAI 556 - Classroom-Based Literacy Assessment     
+&nbsp;&nbsp;&nbsp; with Lynn E. Shanahan     
+&nbsp;&nbsp;&nbsp; Department of Learning and Instruction   
+&nbsp;&nbsp;&nbsp; University at Buffalo, SUNY     
 
 ## Computer Software Development
 
@@ -236,18 +214,17 @@ R, LaTeX, HTML, CSS, R Markdown
 
 \RS
 
- Rinker, T. W. (2014). embodied: Embodiment related analysis tools.  University at Buffalo. Buffalo, New York. <http://github.com/trinker/embodied>
- 
 Rinker, T. W. (2013). [qdap: Quantitative Discourse Analysis
-Package](http://cran.r-project.org/web/packages/qdap/index.html).  University at 
-Buffalo. Buffalo, New York. <http://github.com/trinker/qdap>
+Package](http://cran.r-project.org/web/packages/qdap/index.html).
+version 0.2.1. University at Buffalo. Buffalo, New York.
+<http://github.com/trinker/qdap>
 
 Rinker, T. W. (2013). [reports: Package to assist in report
 writing](http://cran.r-project.org/web/packages/reports/index.html).
-University at Buffalo. Buffalo, New York. <http://github.com/trinker/reports>
+version 0.1.0. University at Buffalo. Buffalo, New York. <http://github.com/trinker/reports>
 
-Rinker, T. W. & Kurkiewicz, D. (2013). pacman: Package Management for R 
-University at Buffalo. Buffalo, New York.
+Rinker, T. W. & Kurkiewicz, D. (2013). pacman: Package Management for R
+version 0.2.0. University at Buffalo. Buffalo, New York.
 <http://github.com/trinker/pacman>
 
 Rinker, T. W. & Aloe, A. M. (2013). metaDAT: Meta-analysis data
@@ -295,30 +272,8 @@ Literacy Research Association Conference Reviewer
  </div> 
 </div> 
 
-<div style="width: 100%; margin-bottom:1cm;">
-    <div style="margin-left: 14.5%; width: 53%; float: left;"> <a href="http://gse.buffalo.edu/about/directory/faculty/2135"> Ming Ming Chiu </a> <br>
-&nbsp;&nbsp;&nbsp; Associate Professor  <br>    
-&nbsp;&nbsp;&nbsp; Department of Learning and Instruction <br>     
-&nbsp;&nbsp;&nbsp; University at Buffalo    </div>
-    <div style="width: 80%;text-align:right;"> <br> <em>Office</em>: 1-716-645-4067 <br>
-<em>E-mail</em>: <a href="mailto:mingchiu@buffalo.edu" target="_blank">mingchiu@buffalo.edu</a> <br>
- </div> 
-</div> 
-
-<div style="width: 100%; margin-bottom:1cm;">
-    <div style="margin-left: 14.5%; width: 53%; float: left;"> <a href="http://gse.buffalo.edu/about/directory/faculty/finn"> Jeremy D. Finn </a> <br>
-&nbsp;&nbsp;&nbsp; SUNY Distinguished Professor  <br>    
-&nbsp;&nbsp;&nbsp; Department of Educational Leadership and Policy &<br>  
-&nbsp;&nbsp;&nbsp; Department of Counseling, School, and Educational Psychology <br>  
-&nbsp;&nbsp;&nbsp; University at Buffalo    </div>
-    <div style="width: 80%;text-align:right;"> <br> <em>Office</em>: 1-716-645-1126 <br>
-<em>E-mail</em>: <a href="mailto:finn@buffalo.edu" target="_blank">finn@buffalo.edu</a> <br>
- </div> 
-</div> 
-
-`r VS(4)`
+</br></br></br></br>
 
 \PE
 
-`r VS(13)`
-  
+</br></br></br></br></br></br></br></br></br></br></br></br></br>

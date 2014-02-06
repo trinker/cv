@@ -37,8 +37,8 @@ Buffalo, NY 14260-1000 </div>
 ## Research Interests
 
 - Development of literacy research methods
-- Data visualization
-- Discourse analysis
+- Quantitative/qualitative discourse analysis
+- Data visualization 
 - New literacies/multimodality
 - Classroom student engagement
 - Teacher professional development
@@ -50,12 +50,12 @@ Buffalo, NY 14260-1000 </div>
 
 &nbsp;&nbsp;&nbsp; Ph.D., [Reading Education](http://gse.buffalo.edu/lai/doc), *Expected:* Summer 2015      
 &nbsp;&nbsp;&nbsp; Thesis Topic: *UNDECIDED*    
-&nbsp;&nbsp;&nbsp; Adviser: [Lynn E. Shanahan, Ph.D](http://gse.buffalo.edu/about/directory/faculty/2110)    
+&nbsp;&nbsp;&nbsp; Adviser: [Lynn E. Shanahan, Ph.D.](http://gse.buffalo.edu/about/directory/faculty/2110)    
 
 [**Buffalo State College, SUNY**](http://www.buffalostate.edu/) Buffalo, NY 
 
 &nbsp;&nbsp;&nbsp; C.A.S., [Educational Leadership](http://www.buffalostate.edu/gradprog.xml?bpid=27), Spring 2009    
-&nbsp;&nbsp;&nbsp; Adviser: [Nancy Chicola,Ph.D](http://elementaryeducation.buffalostate.edu/faculty/nancy-chicola)     
+&nbsp;&nbsp;&nbsp; Adviser: [Nancy Chicola,Ph.D.](http://elementaryeducation.buffalostate.edu/faculty/nancy-chicola)     
 
 &nbsp;&nbsp;&nbsp; M.S., [Childhood & Early Childhood Curriculum & Instruction](http://www.buffalostate.edu/gradprog.xml?bpid=27), Spring 2007       
 
@@ -73,7 +73,7 @@ Buffalo, NY 14260-1000 </div>
 </div>        
 &nbsp;&nbsp;&nbsp; [Center for Literacy and Reading Instruction](http://clari.buffalo.edu),       
 &nbsp;&nbsp;&nbsp; University at Buffalo, SUNY     
-&nbsp;&nbsp;&nbsp; Supervisor: Mary M. McVee, Ph.D    
+&nbsp;&nbsp;&nbsp; Supervisor: Mary M. McVee, Ph.D.   
 
 <div style="width: 100%; margin-bottom:-.45cm;">
     <div style="margin-left: 14%; width: 30%; float: left;"> <b>Graduate Assistant</b>  </div>
@@ -81,7 +81,7 @@ Buffalo, NY 14260-1000 </div>
 </div>      
 &nbsp;&nbsp;&nbsp; Department of Learning and Instruction,     
 &nbsp;&nbsp;&nbsp; University at Buffalo, SUNY       
-&nbsp;&nbsp;&nbsp; Supervisors: Lynn E. Shanahan, Ph.D     
+&nbsp;&nbsp;&nbsp; Supervisors: Lynn E. Shanahan, Ph.D.    
 
 ## Refereed Journal Publications
 
@@ -123,12 +123,20 @@ Reading Quarterly*. Manuscript submitted for publication.
 
 \RS
 
-Shanahan, L. E., Tochelli, A. L., & Rinker, T. W. (2013). Teacher growth
-in explicit strategy instruction. (Presentation for the Literacy
-Research Association Annual Conference & Related Article Submission).
+Erekson, J., McVee, M. B., Rinker, T. W., & et al. (2013). <em>Ten best ideas
+for reading teachers: A retrospective analysis</em>. Paper presented at the Literacy
+Research Association, Dallas, TX.
 
-Erekson, J., McVee, M. B., Rinker, T. W, & et al. (2013). Ten best ideas for reading teachers: A retrospective analysis. (Presentation for the Literacy
-Research Association Annual Conference).
+Rinker, T. W. and McVee, M. B. (2013). <em>Student Engagement with
+Mediational Tools in a Literacy Clinic: A Multimodal Examination of Clinician
+Designed Materials</em>. Paper presented at the Literacy Research Association, Dallas,
+TX.
+
+
+Rinker, T. W., McVee, M. B., Cho, Y. and Schiller, J. A. (2012).
+<em> The Overlooked Role of Teacher Feedback During Literacy Instruction: Tensions
+Between Engagement, Embodiment, and Ipseity</em>. Paper presented at the Literacy
+Research Association, San Diego, CA.
 
 \RE
 
@@ -143,23 +151,28 @@ Research Association Annual Conference).
 ## Presentations
 
 
-### National Presentations
+<h3 style="margin-left:49px;"> National Presentations </h3>
 
 \RS
 
-Rinker, T. W., McVee, M. B., Cho, Y. and Schiller, J. A. (2012,
-November). *The Overlooked Role of Teacher Feedback During Literacy
-Instruction: Tensions Between Engagement, Embodiment, and Ipseity*.
-Paper presented at the Literacy Research Association, San Diego, CA.
+Erekson, J., McVee, M. B., Rinker, T. W., & et al. (2013, December). <em>Ten best ideas
+for reading teachers: A retrospective analysis</em>.  Paper presented at the 
+Literacy Research Association, Dallas, TX.
 
 Rinker, T. W. and McVee, M. B. (2013, December). *Student Engagement
 with Mediational Tools in a Literacy Clinic: A Multimodal Examination of
 Clinician Designed Materials*. Paper presented at the Literacy Research
 Association, Dallas, TX.
 
+Rinker, T. W., McVee, M. B., Cho, Y. and Schiller, J. A. (2012,
+November). *The Overlooked Role of Teacher Feedback During Literacy
+Instruction: Tensions Between Engagement, Embodiment, and Ipseity*.
+Paper presented at the Literacy Research Association, San Diego, CA.
+
+
 \RE
 
-### Professional Presentations: Invited
+<h3 style="margin-left:49px;"> Professional Presentations: Invited </h3>
 
 \RS
 
@@ -214,17 +227,18 @@ R, LaTeX, HTML, CSS, R Markdown
 
 \RS
 
+ Rinker, T. W. (2014). embodied: Embodiment related analysis tools.  University at Buffalo. Buffalo, New York. <http://github.com/trinker/embodied>
+ 
 Rinker, T. W. (2013). [qdap: Quantitative Discourse Analysis
-Package](http://cran.r-project.org/web/packages/qdap/index.html).
-version 0.2.1. University at Buffalo. Buffalo, New York.
-<http://github.com/trinker/qdap>
+Package](http://cran.r-project.org/web/packages/qdap/index.html).  University at 
+Buffalo. Buffalo, New York. <http://github.com/trinker/qdap>
 
 Rinker, T. W. (2013). [reports: Package to assist in report
 writing](http://cran.r-project.org/web/packages/reports/index.html).
-version 0.1.0. University at Buffalo. Buffalo, New York. <http://github.com/trinker/reports>
+University at Buffalo. Buffalo, New York. <http://github.com/trinker/reports>
 
-Rinker, T. W. & Kurkiewicz, D. (2013). pacman: Package Management for R
-version 0.2.0. University at Buffalo. Buffalo, New York.
+Rinker, T. W. & Kurkiewicz, D. (2013). pacman: Package Management for R 
+University at Buffalo. Buffalo, New York.
 <http://github.com/trinker/pacman>
 
 Rinker, T. W. & Aloe, A. M. (2013). metaDAT: Meta-analysis data
@@ -272,8 +286,30 @@ Literacy Research Association Conference Reviewer
  </div> 
 </div> 
 
+<div style="width: 100%; margin-bottom:1cm;">
+    <div style="margin-left: 14.5%; width: 53%; float: left;"> <a href="http://gse.buffalo.edu/about/directory/faculty/2135"> Ming Ming Chiu </a> <br>
+&nbsp;&nbsp;&nbsp; Associate Professor  <br>    
+&nbsp;&nbsp;&nbsp; Department of Learning and Instruction <br>     
+&nbsp;&nbsp;&nbsp; University at Buffalo    </div>
+    <div style="width: 80%;text-align:right;"> <br> <em>Office</em>: 1-716-645-4067 <br>
+<em>E-mail</em>: <a href="mailto:mingchiu@buffalo.edu" target="_blank">mingchiu@buffalo.edu</a> <br>
+ </div> 
+</div> 
+
+<div style="width: 100%; margin-bottom:1cm;">
+    <div style="margin-left: 14.5%; width: 53%; float: left;"> <a href="http://gse.buffalo.edu/about/directory/faculty/finn"> Jeremy D. Finn </a> <br>
+&nbsp;&nbsp;&nbsp; SUNY Distinguished Professor  <br>    
+&nbsp;&nbsp;&nbsp; Department of Educational Leadership and Policy &<br>  
+&nbsp;&nbsp;&nbsp; Department of Counseling, School, and Educational Psychology <br>  
+&nbsp;&nbsp;&nbsp; University at Buffalo    </div>
+    <div style="width: 80%;text-align:right;"> <br> <em>Office</em>: 1-716-645-1126 <br>
+<em>E-mail</em>: <a href="mailto:finn@buffalo.edu" target="_blank">finn@buffalo.edu</a> <br>
+ </div> 
+</div> 
+
 </br></br></br></br>
 
 \PE
 
 </br></br></br></br></br></br></br></br></br></br></br></br></br>
+  
