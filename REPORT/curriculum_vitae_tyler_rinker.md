@@ -1,6 +1,6 @@
 \PS
 
-<h1> Tyler W. Rinker </h1>
+<h1 style="margin-left:05px;"> Tyler W. Rinker </h1>
 <hr width="80%">
 
 <a target="_blank" style="margin-left: 4.5%;" href="http://about.me/tylerrinker" target="_blank">![](../icons/aboutme.png)</a>
