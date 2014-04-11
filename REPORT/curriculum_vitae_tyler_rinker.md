@@ -155,8 +155,6 @@ Research Association, San Diego, CA.
 
 \RS
 
-Shisler, S., Norris, B., and Rinker, T. W., & et al. (2014, April). <em>A Multivariate Meta-Analysis of Student Misbehavior and Teacher Burnout</em>. (Presentation for the Graduate School of Education Student Research Symposium at University at Buffalo, SUNY).
-
 Erekson, J., McVee, M. B., Rinker, T. W., & et al. (2013, December). <em>Ten best ideas
 for reading teachers: A retrospective analysis</em>.  (Presentation for the 
 Literacy Research Association Annual Conference).
@@ -177,6 +175,11 @@ Instruction: Tensions Between Engagement, Embodiment, and Ipseity*.
 <h3 style="margin-left:49px;"> Professional Presentations: Invited </h3>
 
 \RS
+
+Shisler, S., Norris, B., & Rinker, T. W. (2014, April). 
+<em>A Multivariate Meta-Analysis of Student Misbehavior and Teacher Burnout</em>. 
+(Presentation for the Graduate School of Education Student Research Symposium at 
+University at Buffalo, SUNY).
 
 Rinker, T. W. (2013, December). [qdap Demonstration: If You Can Dream up
 an Analysis then qdap and R Can Help Get You
