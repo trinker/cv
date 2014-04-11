@@ -49,7 +49,7 @@ Buffalo, NY 14260-1000 </div>
 [**University at Buffalo, SUNY**](http://www.buffalo.edu/) Buffalo, NY  
 
 &nbsp;&nbsp;&nbsp; Ph.D., [Reading Education](http://gse.buffalo.edu/lai/doc), *Expected:* Summer 2015      
-&nbsp;&nbsp;&nbsp; Thesis Topic: *UNDECIDED*    
+&nbsp;&nbsp;&nbsp; Thesis Topic: *Visual Discourse Analysis*    
 &nbsp;&nbsp;&nbsp; Adviser: [Lynn E. Shanahan, Ph.D.](http://gse.buffalo.edu/about/directory/faculty/2110)    
 
 [**Buffalo State College, SUNY**](http://www.buffalostate.edu/) Buffalo, NY 
@@ -127,13 +127,13 @@ Erekson, J., McVee, M. B., Rinker, T. W., & et al. (2013). <em>Ten best ideas
 for reading teachers: A retrospective analysis</em>. Paper presented at the Literacy
 Research Association, Dallas, TX.
 
-Rinker, T. W. and McVee, M. B. (2013). <em>Student Engagement with
+Rinker, T. W. & McVee, M. B. (2013). <em>Student Engagement with
 Mediational Tools in a Literacy Clinic: A Multimodal Examination of Clinician
 Designed Materials</em>. Paper presented at the Literacy Research Association, Dallas,
 TX.
 
 
-Rinker, T. W., McVee, M. B., Cho, Y. and Schiller, J. A. (2012).
+Rinker, T. W., McVee, M. B., Cho, Y. & Schiller, J. A. (2012).
 <em> The Overlooked Role of Teacher Feedback During Literacy Instruction: Tensions
 Between Engagement, Embodiment, and Ipseity</em>. Paper presented at the Literacy
 Research Association, San Diego, CA.
@@ -155,16 +155,18 @@ Research Association, San Diego, CA.
 
 \RS
 
+Shisler, S., Norris, B., and Rinker, T. W., & et al. (2014, April). <em>A Multivariate Meta-Analysis of Student Misbehavior and Teacher Burnout</em>. (Presentation for the Graduate School of Education Student Research Symposium at University at Buffalo, SUNY).
+
 Erekson, J., McVee, M. B., Rinker, T. W., & et al. (2013, December). <em>Ten best ideas
 for reading teachers: A retrospective analysis</em>.  (Presentation for the 
 Literacy Research Association Annual Conference).
 
-Rinker, T. W. and McVee, M. B. (2013, December). *Student Engagement
+Rinker, T. W. & McVee, M. B. (2013, December). *Student Engagement
 with Mediational Tools in a Literacy Clinic: A Multimodal Examination of
 Clinician Designed Materials*. (Presentation for the Literacy Research 
 Association Annual Conference).
 
-Rinker, T. W., McVee, M. B., Cho, Y. and Schiller, J. A. (2012,
+Rinker, T. W., McVee, M. B., Cho, Y. & Schiller, J. A. (2012,
 November). *The Overlooked Role of Teacher Feedback During Literacy
 Instruction: Tensions Between Engagement, Embodiment, and Ipseity*.
 (Presentation for the Literacy Research Association Annual Conference).
