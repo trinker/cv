@@ -46,3 +46,22 @@ convert <- function(html = x, open = TRUE, rm = FALSE) {
     if (open) shell.exec(html)
     message("file converted!")
 }
+
+relocate <- function(){
+	loc1 <- "C:/Users/trinker/GitHub/trinker.github.com/curriculum_vitae"
+    loc2 <- "C:/Users/trinker/GitHub/trinker.github.com/card"
+	cv1 <- "REPORT/curriculum_vitae_tyler_rinker.html"
+    cv2 <- "REPORT/curriculum_vitae_tyler_rinker.pdf"
+    file.copy(cv1, loc1)
+	file.copy(cv1, loc2)
+	file.copy(cv2, loc1)
+	file.copy(cv2, loc2)
+	file.copy("README.md", loc1)	
+	file.copy("README.md", loc2)
+	file.rename(file.path(loc1, "curriculum_vitae_tyler_rinker.html"),
+		file.path(loc1, "index.html"))
+    file.copy("icons", loc1,recursive = TRUE)
+	file.copy("icons", loc2, recursive = TRUE)	
+	
+}
+

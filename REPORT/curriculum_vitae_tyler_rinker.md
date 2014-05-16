@@ -49,7 +49,7 @@ Buffalo, NY 14260-1000 </div>
 [**University at Buffalo, SUNY**](http://www.buffalo.edu/) Buffalo, NY  
 
 &nbsp;&nbsp;&nbsp; Ph.D., [Reading Education](http://gse.buffalo.edu/lai/doc), *Expected:* Summer 2015      
-&nbsp;&nbsp;&nbsp; Thesis Topic: *Visual Discourse Analysis*    
+&nbsp;&nbsp;&nbsp; Thesis Topic: *Gaphical Discourse Analysis*    
 &nbsp;&nbsp;&nbsp; Adviser: [Lynn E. Shanahan, Ph.D.](http://gse.buffalo.edu/about/directory/faculty/2110)    
 
 [**Buffalo State College, SUNY**](http://www.buffalostate.edu/) Buffalo, NY 
@@ -87,7 +87,9 @@ Buffalo, NY 14260-1000 </div>
 
 \RS
 
-
+Aloe, A. M., Shisler, S. M., Norris, B. D., Nickerson, A. B., & Rinker,
+T. W. (in press). A multivariate meta-analysis of student misbehavior
+and teacher burnout. *Educational Research Review*. 
 
 \RE
 
@@ -107,10 +109,6 @@ Emerald Press.
 ## Submitted Journal Publications
 
 \RS
-
-Aloe, A. M., Shisler, S. M., Norris, B. D., Nickerson, A. B., & Rinker,
-T. W. (2014). A multivariate meta-analysis of student misbehavior
-and teacher burnout. *Educational Research Review*. Manuscript submitted for publication.
 
 McVee, M. B., McGrath, K., & Rinker, T. W. (2014). A
 phenomenological study of narrative interviews with parents of
