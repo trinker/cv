@@ -33,7 +33,6 @@ Buffalo, NY 14260-1000 </div>
 
 
 
-
 ## Research Interests
 
 - Development of literacy research methods
@@ -59,7 +58,7 @@ Buffalo, NY 14260-1000 </div>
 
 &nbsp;&nbsp;&nbsp; M.S., [Childhood & Early Childhood Curriculum & Instruction](http://www.buffalostate.edu/gradprog.xml?bpid=27), Spring 2007       
 
-[**Houghton College**](http://www.houghton.edu/) Buffalo, NY 
+[**Houghton College**](http://www.houghton.edu/) Houghton, NY 
 
 &nbsp;&nbsp;&nbsp; B.S., [Elementary Education](http://www.houghton.edu/education/), Spring 2002    
 
@@ -110,10 +109,9 @@ Emerald Press.
 
 \RS
 
-McVee, M. B., McGrath, K., & Rinker, T. W. (2014). A
-phenomenological study of narrative interviews with parents of
-struggling readers: Bringing parent voices into the academy. *Research
-Reading Quarterly*. Manuscript submitted for publication.
+Shanahan, L. E., Tochelli, A. L., & Rinker, T. W. (2014). Video Study Group Reflection Conversations: An Analysis of Inservice Teachers' Patterns of Verbal Interactions. *Journal of the Learning Sciences*. Manuscript submitted for publication.
+    
+McVee, M. B., McGrath, K., & Rinker, T. W. (2014). A phenomenological study of narrative interviews with parents of struggling readers: Bringing parent voices into the academy. *Research Reading Quarterly*. Manuscript submitted for publication.
 
 \RE
 
@@ -143,6 +141,8 @@ Research Association, San Diego, CA.
 <div style="width: 100%;">
     <div style="margin-left: 14.5%; width: 30%; float: left;"> William C. Eller Memorial Scholarship </div>
     <div style="width: 80%;text-align:right;"> 2012-2013 </div> 
+    <div style="margin-left: 14.5%; width: 30%; float: left;"> GSE Student Research Symposium: Best Research Poster </div>
+    <div style="width: 80%;text-align:right;"> 2014 </div>    
 </div>
     
 
