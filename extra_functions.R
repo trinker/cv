@@ -52,6 +52,7 @@ relocate <- function(){
     loc2 <- "C:/Users/trinker/GitHub/trinker.github.com/card"
 	cv1 <- "REPORT/curriculum_vitae_tyler_rinker.html"
     cv2 <- "REPORT/curriculum_vitae_tyler_rinker.pdf"
+	reports::delete(file.path(loc2, "curriculum_vitae_tyler_rinker.pdf"))
     file.copy(cv1, loc1)
 	file.copy(cv1, loc2)
 	file.copy(cv2, loc1)
