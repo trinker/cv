@@ -109,7 +109,7 @@ Emerald Press.
 
 \RS
 
-Shanahan, L. E., Tochelli, A. L., & Rinker, T. W. (2014). Video Study Group Reflection Conversations: An Analysis of Inservice Teachers' Patterns of Verbal Interactions. *Journal of the Learning Sciences*. Manuscript submitted for publication.
+Shanahan, L. E., Tochelli, A. L., & Rinker, T. W. (2014). Video study group reflection conversations: An analysis of inservice teachers' patterns of verbal interactions. *Journal of the Learning Sciences*. Manuscript submitted for publication.
     
 McVee, M. B., McGrath, K., & Rinker, T. W. (2014). A phenomenological study of narrative interviews with parents of struggling readers: Bringing parent voices into the academy. *Research Reading Quarterly*. Manuscript submitted for publication.
 

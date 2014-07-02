@@ -1,9 +1,8 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2013.9.15)  2 JUL 2014 11:25
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2013.9.15)  2 JUL 2014 11:45
 entering extended mode
-**C:/Users/trinker/Desktop/PhD*Program/cv/REPORT/curriculum_vitae_tyler_rinker.
-tex
+**curriculum_vitae_tyler_rinker.tex
 
-("C:/Users/trinker/Desktop/PhD Program/cv/REPORT/curriculum_vitae_tyler_rinker.
+("C:\Users\trinker\Desktop\PhD Program\cv\REPORT\curriculum_vitae_tyler_rinker.
 tex"
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
@@ -356,8 +355,8 @@ File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 43.
 
-Overfull \hbox (13.85793pt too wide) in paragraph at lines 134--135
-\OT1/cmr/m/n/10 In-ter-ac-tions. \OT1/cmr/m/it/10 Jour-nal of the Learn-ing Sci
+Overfull \hbox (13.0246pt too wide) in paragraph at lines 134--135
+\OT1/cmr/m/n/10 in-ter-ac-tions. \OT1/cmr/m/it/10 Jour-nal of the Learn-ing Sci
 -ences\OT1/cmr/m/n/10 . Manuscript sub-mit-ted for pub-li-ca-tion. 
  []
 
@@ -397,7 +396,7 @@ Here is how much of TeX's memory you used:
  9147 multiletter control sequences out of 15000+200000
  5368 words of font info for 20 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 31i,13n,43p,481b,464s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 31i,13n,43p,434b,464s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb>
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C
 :/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:
@@ -406,7 +405,7 @@ ogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Progra
 m Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program 
 Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Fi
 les (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on curriculum_vitae_tyler_rinker.pdf (3 pages, 137688 bytes).
+Output written on curriculum_vitae_tyler_rinker.pdf (3 pages, 137680 bytes).
 PDF statistics:
  163 PDF objects out of 1000 (max. 8388607)
  26 named destinations out of 1000 (max. 500000)
