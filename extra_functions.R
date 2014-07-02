@@ -60,6 +60,8 @@ relocate <- function(){
 	file.copy("README.md", loc2)
 	file.rename(file.path(loc1, "curriculum_vitae_tyler_rinker.html"),
 		file.path(loc1, "index.html"))
+	file.rename(file.path(loc2, "curriculum_vitae_tyler_rinker.html"),
+		file.path(loc2, "curriculum_vitae.html"))	
     file.copy("icons", loc1,recursive = TRUE)
 	file.copy("icons", loc2, recursive = TRUE)	
 	
