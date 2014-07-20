@@ -87,8 +87,8 @@ Buffalo, NY 14260-1000 </div>
 \RS
 
 Aloe, A. M., Shisler, S. M., Norris, B. D., Nickerson, A. B., & Rinker,
-T. W. (in press). A multivariate meta-analysis of student misbehavior
-and teacher burnout. *Educational Research Review*. 
+T. W. (in press). [A multivariate meta-analysis of student misbehavior
+and teacher burnout](http://www.sciencedirect.com/science/article/pii/S1747938X14000141). *Educational Research Review*. 
 
 \RE
 
