@@ -49,9 +49,15 @@ convert <- function(html = x, open = TRUE, rm = FALSE) {
     message("file converted!")
 }
 
-relocate <- function(){
-	loc1 <- "C:/Users/trinker/GitHub/trinker.github.com/curriculum_vitae"
-    loc2 <- "C:/Users/trinker/GitHub/trinker.github.com/card"
+myloc <- switch(Sys.info()[["user"]],
+        Tyler = "C:/Users/Tyler",
+    	trinker = "C:/Users/trinker",
+        message("Computer name not found")
+    )
+
+relocate <- function(theloc = myloc){
+	loc1 <- file.path(theloc, "GitHub/trinker.github.com/curriculum_vitae")
+    loc2 <- file.path(theloc, "GitHub/trinker.github.com/card")
 	cv1 <- "REPORT/curriculum_vitae_tyler_rinker.html"
     cv2 <- "REPORT/curriculum_vitae_tyler_rinker.pdf"
 	reports::delete(file.path(loc2, "curriculum_vitae_tyler_rinker.pdf"))
