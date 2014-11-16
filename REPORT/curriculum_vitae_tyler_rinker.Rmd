@@ -142,6 +142,8 @@ Research Association, San Diego, CA.
 
 <div style="width: 100%;">
     <div style="margin-left: 14.5%; width: 30%; float: left;"> William C. Eller Memorial Scholarship </div>
+    <div style="width: 80%;text-align:right;"> 2014-2015 </div>
+    <div style="margin-left: 14.5%; width: 30%; float: left;"> William C. Eller Memorial Scholarship </div>
     <div style="width: 80%;text-align:right;"> 2012-2013 </div> 
     <div style="margin-left: 14.5%; width: 30%; float: left;"> GSE Student Research Symposium: Best Research Poster </div>
     <div style="width: 80%;text-align:right;"> 2014 </div>    
@@ -154,6 +156,8 @@ Research Association, San Diego, CA.
 <h3 style="margin-left:49px;"> National Presentations </h3>
 
 \RS
+
+O'Byrne, W. I., Stahl, N. A., Reinking, D., Dooley, C. D., Bass, T., Johnson, L. L., ... Rinker, T. W., \& et al. (2014, December). <em>Professors, we need you!!!: Public intellectuals, advocacy, and activism</em>. (Presentation for the Literacy Research Association Annual Conference).
 
 Erekson, J., McVee, M. B., Rinker, T. W., & et al. (2013, December). <em>Ten best ideas
 for reading teachers: A retrospective analysis</em>.  (Presentation for the 
@@ -236,6 +240,10 @@ R, LaTeX, HTML, CSS, R Markdown
 
 \RS
 
+Rinker, T. W. (2014). [qdapRegex: Regular Expression Removal, Extraction, and Replacement Tools](http://cran.r-project.org/web/packages/qdapRegex/index.html). University at Buffalo. Buffalo, New York. <http://github.com/trinker/qdapRegex>
+
+Rinker, T. W. (2014). [qdapTools: Tools for the qdap Package](http://cran.r-project.org/web/packages/qdapTools/index.html). University at Buffalo. Buffalo, New York. <http://github.com/trinker/qdapTools>
+    
 Rinker, T. W. (2014). embodied: Embodiment related analysis tools.  University 
 at Buffalo. Buffalo, New York. <http://github.com/trinker/embodied>
  

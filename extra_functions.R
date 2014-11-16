@@ -1,4 +1,6 @@
 #Source the following project functions on startup
+knitr::knit2html("REPORT/curriculum_vitae_tyler_rinker.RMd", 
+    "REPORT/curriculum_vitae_tyler_rinker.html")
 
 x <- file.path(getwd(), "REPORT/curriculum_vitae_tyler_rinker.html")
 convert <- function(html = x, open = TRUE, rm = FALSE) {
