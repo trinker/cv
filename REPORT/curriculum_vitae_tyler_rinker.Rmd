@@ -257,28 +257,27 @@ R, LaTeX, HTML, CSS, R Markdown
 
 \RS
 
-Rinker, T. W. (2014). [qdapRegex: Regular Expression Removal, Extraction, and Replacement Tools](http://cran.r-project.org/web/packages/qdapRegex/index.html). University at Buffalo. Buffalo, New York. <http://github.com/trinker/qdapRegex>
+Rinker, T. W. (2014). [qdapRegex: Regular Expression Removal, Extraction, and Replacement Tools](http://cran.r-project.org/web/packages/qdapRegex/index.html). University at Buffalo.  Buffalo, New York. <http://github.com/trinker/qdapRegex>
 
-Rinker, T. W. (2014). [qdapTools: Tools for the qdap Package](http://cran.r-project.org/web/packages/qdapTools/index.html). University at Buffalo. Buffalo, New York. <http://github.com/trinker/qdapTools>
+Rinker, T. W. (2014). [qdapTools: Tools for the qdap Package](http://cran.r-project.org/web/packages/qdapTools/index.html). University at Buffalo.  Buffalo, New York. <br> <http://github.com/trinker/qdapTools>
     
 Rinker, T. W. (2014). embodied: Embodiment related analysis tools.  University 
-at Buffalo. Buffalo, New York. <http://github.com/trinker/embodied>
+at Buffalo.  Buffalo, New York. <br> <http://github.com/trinker/embodied>
  
 Rinker, T. W. (2013). [qdap: Quantitative Discourse Analysis
 Package](http://cran.r-project.org/web/packages/qdap/index.html).  University at 
-Buffalo. Buffalo, New York. <http://github.com/trinker/qdap>
+Buffalo.  Buffalo, New York. <br> <http://github.com/trinker/qdap>
 
 Rinker, T. W. (2013). [reports: Package to Assist in Report
-Writing](http://cran.r-project.org/web/packages/reports/index.html).
-University at Buffalo. Buffalo, New York. <http://github.com/trinker/reports>
+Writing](http://cran.r-project.org/web/packages/reports/index.html). University 
+at Buffalo. Buffalo, New York. <br> <http://github.com/trinker/reports>
 
-Rinker, T. W. & Kurkiewicz, D. (2013). pacman: Package Management Tools for R.  
-University at Buffalo. Buffalo, New York.
-<http://github.com/trinker/pacman>
+Rinker, T. W. & Kurkiewicz, D. (2013). pacman: Package Management Tools for R. 
+University at Buffalo. Buffalo, New York. <http://github.com/trinker/pacman>
 
-Rinker, T. W. & Aloe, A. M. (2013). metaDAT: Meta-analysis data
-management tool. version 0.1.0. University at Buffalo. Buffalo, New
-York. <http://github.com/trinker/metaDAT>
+Rinker, T. W. & Aloe, A. M. (2013). metaDAT: Meta-analysis data 
+management tool. version 0.1.0. University at Buffalo. Buffalo, New York. 
+<http://github.com/trinker/metaDAT>
 
 \RE
 
