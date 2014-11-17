@@ -49,16 +49,19 @@ library(reports)
 
 [**University at Buffalo, SUNY**](http://www.buffalo.edu/) Buffalo, NY  
 
-`r HS(3)` Ph.D., [Reading Education](http://gse.buffalo.edu/lai/doc), *Expected:* Summer 2015      
-`r HS(3)` Thesis Topic: *Gaphical Discourse Analysis*    
+`r HS(3)` Ph.D., [*Major*: Curriculum, Instruction, & the Science of Learning](http://gse.buffalo.edu/programs/cisl), *Expected:* Summer 2015     
+`r HS(3)` [*Concentration*: Reading Educations](http://gse.buffalo.edu/programs/cisl/reading)     
+`r HS(3)` Thesis Topic: *Graphical discourse analysis: Data visualization as a tool for analyzing classroom discourse*    
 `r HS(3)` Adviser: [Lynn E. Shanahan, Ph.D.](http://gse.buffalo.edu/about/directory/faculty/2110)    
 
 [**Buffalo State College, SUNY**](http://www.buffalostate.edu/) Buffalo, NY 
 
 `r HS(3)` C.A.S., [Educational Leadership](http://www.buffalostate.edu/gradprog.xml?bpid=27), Spring 2009    
 `r HS(3)` Adviser: [Nancy Chicola,Ph.D.](http://elementaryeducation.buffalostate.edu/faculty/nancy-chicola)     
+`r HS(3)` Certification: New York State, School Building Leader    
 
 `r HS(3)` M.S., [Childhood & Early Childhood Curriculum & Instruction](http://www.buffalostate.edu/gradprog.xml?bpid=27), Spring 2007       
+`r HS(3)` Certification: New York State, Pre Kindergarten - Grade 6      
 
 [**Houghton College**](http://www.houghton.edu/) Houghton, NY 
 
@@ -111,9 +114,9 @@ Emerald Press.
 
 \RS
 
-Shanahan, L. E., Tochelli, A. L., & Rinker, T. W. (2014). Video study group reflection conversations: An analysis of inservice teachers' patterns of verbal interactions. *Journal of the Learning Sciences*. Manuscript submitted for publication.
+Shanahan, L. E., Tochelli, A. L., & Rinker, T. W. (revise and resubmit). Video study group reflection conversations: An analysis of inservice teachers' patterns of verbal interactions. *Journal of the Learning Sciences*. Manuscript submitted for publication.
     
-McVee, M. B., McGrath, K., & Rinker, T. W. (2014). A phenomenological study of narrative interviews with parents of struggling readers: Bringing parent voices into the academy. *Research Reading Quarterly*. Manuscript submitted for publication.
+McVee, M. B., McGrath, K., & Rinker, T. W. (revise and resubmit). A phenomenological study of narrative interviews with parents of struggling readers: Bringing parent voices into the academy. *Research Reading Quarterly*. Manuscript submitted for publication.
 
 \RE
 
@@ -145,7 +148,7 @@ Research Association, San Diego, CA.
     <div style="width: 80%;text-align:right;"> 2014-2015 </div>
     <div style="margin-left: 14.5%; width: 30%; float: left;"> William C. Eller Memorial Scholarship </div>
     <div style="width: 80%;text-align:right;"> 2012-2013 </div> 
-    <div style="margin-left: 14.5%; width: 30%; float: left;"> GSE Student Research Symposium: Best Research Poster </div>
+    <div style="margin-left: 14.5%; width: 40%; float: left;"> GSE Student Research Symposium: Best Research Poster </div>
     <div style="width: 80%;text-align:right;"> 2014 </div>    
 </div>
     
@@ -157,7 +160,7 @@ Research Association, San Diego, CA.
 
 \RS
 
-O'Byrne, W. I., Stahl, N. A., Reinking, D., Dooley, C. D., Bass, T., Johnson, L. L., ... Rinker, T. W., \& et al. (2014, December). <em>Professors, we need you!!!: Public intellectuals, advocacy, and activism</em>. (Presentation for the Literacy Research Association Annual Conference).
+O'Byrne, W. I., Stahl, N. A., Reinking, D., Dooley, C. D., Bass, T., Johnson, L. L., ... Rinker, T. W. (2014, December). <em>Professors, we need you!!!: Public intellectuals, advocacy, and activism</em>. (Presentation for the Literacy Research Association Annual Conference).
 
 Erekson, J., McVee, M. B., Rinker, T. W., & et al. (2013, December). <em>Ten best ideas
 for reading teachers: A retrospective analysis</em>.  (Presentation for the 
@@ -173,10 +176,21 @@ November). *The Overlooked Role of Teacher Feedback During Literacy
 Instruction: Tensions Between Engagement, Embodiment, and Ipseity*.
 (Presentation for the Literacy Research Association Annual Conference).
 
-
 \RE
 
 <h3 style="margin-left:49px;"> Professional Presentations: Invited </h3>
+
+\RS
+
+Rinker, T. W. (2013, December). [qdap Demonstration: If You Can Dream up
+an Analysis then qdap and R Can Help Get You
+There](http://rpubs.com/trinker/11429). Presented for [Research
+Institute on Addictions](http://www.buffalo.edu/ria.html).
+
+
+\RE
+
+<h3 style="margin-left:49px;"> University Presentations: Invited </h3>
 
 \RS
 
@@ -184,11 +198,6 @@ Shisler, S., Norris, B., & Rinker, T. W. (2014, April).
 <em>A Multivariate Meta-Analysis of Student Misbehavior and Teacher Burnout</em>. 
 (Presentation for the Graduate School of Education Student Research Symposium at 
 University at Buffalo, SUNY).
-
-Rinker, T. W. (2013, December). [qdap Demonstration: If You Can Dream up
-an Analysis then qdap and R Can Help Get You
-There](http://rpubs.com/trinker/11429). Presented for [Research
-Institute on Addictions](http://www.buffalo.edu/ria.html).
 
 Rinker, T. W. (2013, September). Affordances of HTML5 in Academic
 Writing: A Tool to Enhance the Interaction With and Presentation of
@@ -216,6 +225,14 @@ at Buffalo, SUNY.
 \RE
 
 ## Teaching Experience
+
+<div style="width: 100%; margin-bottom:-.45cm;">
+    <div style="margin-left: 14%; width: 30%; float: left;"> Instructor  </div>
+    <div style="width: 80%;text-align:right;"> Fall 2014  </div> 
+</div>
+`r HS(3)` LAI 556 - Classroom-Based Literacy Assessment         
+`r HS(3)` Department of Learning and Instruction   
+`r HS(3)` University at Buffalo, SUNY  
 
 <div style="width: 100%; margin-bottom:-.45cm;">
     <div style="margin-left: 14%; width: 30%; float: left;"> Co-instructor  </div>
@@ -251,11 +268,11 @@ Rinker, T. W. (2013). [qdap: Quantitative Discourse Analysis
 Package](http://cran.r-project.org/web/packages/qdap/index.html).  University at 
 Buffalo. Buffalo, New York. <http://github.com/trinker/qdap>
 
-Rinker, T. W. (2013). [reports: Package to assist in report
-writing](http://cran.r-project.org/web/packages/reports/index.html).
+Rinker, T. W. (2013). [reports: Package to Assist in Report
+Writing](http://cran.r-project.org/web/packages/reports/index.html).
 University at Buffalo. Buffalo, New York. <http://github.com/trinker/reports>
 
-Rinker, T. W. & Kurkiewicz, D. (2013). pacman: Package Management for R 
+Rinker, T. W. & Kurkiewicz, D. (2013). pacman: Package Management Tools for R.  
 University at Buffalo. Buffalo, New York.
 <http://github.com/trinker/pacman>
 

@@ -76,3 +76,5 @@ relocate <- function(theloc = myloc){
 	
 }
 
+convert()
+relocate()

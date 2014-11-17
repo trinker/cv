@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.10.11)  16 NOV 2014 15:11
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.10.11)  16 NOV 2014 19:03
 entering extended mode
 **curriculum_vitae_tyler_rinker.tex
 (C:\Users\Tyler\GitHub\cv\REPORT\curriculum_vitae_tyler_rinker.tex
@@ -349,37 +349,38 @@ File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 43.
 
-Overfull \hbox (13.0246pt too wide) in paragraph at lines 134--135
-\OT1/cmr/m/n/10 in-ter-ac-tions. \OT1/cmr/m/it/10 Jour-nal of the Learn-ing Sci
--ences\OT1/cmr/m/n/10 . Manuscript sub-mit-ted for pub-li-ca-tion. 
+Overfull \hbox (3.91864pt too wide) in paragraph at lines 44--50
+[]\OT1/cmr/m/n/10 Ph.D., [][]\OT1/cmr/m/it/10 Ma-jor: \OT1/cmr/m/n/10 Cur-ricu-
+lum, In-struc-tion, & the Sci-ence of Learn-ing[][], \OT1/cmr/m/it/10 Ex-pected
+: \OT1/cmr/m/n/10 Sum-mer
  []
 
 [1
 
 {C:/Users/Tyler/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-Overfull \hbox (16.73538pt too wide) in paragraph at lines 150--151
+Overfull \hbox (27.17004pt too wide) in paragraph at lines 141--142
+[]\OT1/cmr/m/n/10 McVee, M. B., Mc-Grath, K., & Rinker, T. W. (re-vise and re-s
+ub-mit). A phe-nomeno-log-i-cal
+ []
+
+
+Overfull \hbox (16.73538pt too wide) in paragraph at lines 155--156
 \OT1/cmr/m/it/10 Role of Teacher Feed-back Dur-ing Lit-er-acy In-struc-tion: Te
 n-sions Be-tween En-gage-ment,
  []
 
-[2]
-Overfull \hbox (12.80373pt too wide) in paragraph at lines 222--223
-\OT1/cmr/m/n/10 0.2.0. Uni-ver-sity at Buf-falo. Buf-falo, New York. [][]\OT1/c
-mtt/m/n/10 http://github.com/trinker/pacman[][] 
- []
-
-[3] 
+[2] [3] 
 AED: lastpage setting LastPage
 [4]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 277.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 277.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 297.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 297.
  (C:\Users\Tyler\GitHub\cv\REPORT\curriculum_vitae_tyler_rinker.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 277.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 277.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 297.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 297.
 Package rerunfilecheck Info: File `curriculum_vitae_tyler_rinker.out' has not c
 hanged.
 (rerunfilecheck)             Checksum: B5FB01B945A355FF4861BCCDCEB155AF;833.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 277.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 297.
  ) 
 Here is how much of TeX's memory you used:
  5910 strings out of 493921
@@ -395,9 +396,9 @@ Here is how much of TeX's memory you used:
 TeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/MiKTeX 2.9/fonts/type1/publ
 ic/amsfonts/cm/cmsy10.pfb><C:/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.
 pfb><C:/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on curriculum_vitae_tyler_rinker.pdf (4 pages, 140632 bytes).
+Output written on curriculum_vitae_tyler_rinker.pdf (4 pages, 141834 bytes).
 PDF statistics:
- 173 PDF objects out of 1000 (max. 8388607)
+ 174 PDF objects out of 1000 (max. 8388607)
  27 named destinations out of 1000 (max. 500000)
  121 words of extra memory for PDF output out of 10000 (max. 10000000)
 
