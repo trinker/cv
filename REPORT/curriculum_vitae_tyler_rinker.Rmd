@@ -245,7 +245,7 @@ at Buffalo, SUNY.
 
 ## Computer Software Development
 
-<h3 style="margin-left:49px;"> Computer and Document Languages: </h3>
+<h3 style="margin-left:49px;"> Computer and Document Languages </h3>
 
 \RS
 
