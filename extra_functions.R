@@ -1,4 +1,16 @@
 #Source the following project functions on startup
+if (!require("pacman")) install.packages("pacman")
+if (!require("XLConnectJars")) install.packages("XLConnectJars")
+if (!require("RefManageR")) install.packages('RefManageR')
+devtools::install_github(
+    c("ramnathv/slidify@dev",
+    "ramnathv/slidifyLibraries@dev",
+    "rstudio/rmarkdown",
+    "trinker/reports")
+)
+library(RefManageR)
+library(reports)
+
 knitr::knit2html("REPORT/curriculum_vitae_tyler_rinker.RMd", 
     "REPORT/curriculum_vitae_tyler_rinker.html")
 

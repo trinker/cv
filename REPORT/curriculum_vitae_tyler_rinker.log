@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.10.11)  16 NOV 2014 20:01
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.10.11)  18 FEB 2017 16:18
 entering extended mode
 **curriculum_vitae_tyler_rinker.tex
 (C:\Users\Tyler\GitHub\cv\REPORT\curriculum_vitae_tyler_rinker.tex
@@ -15,9 +15,9 @@ an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
 ishmax, welsh, loaded.
 (C:\Users\Tyler\GitHub\cv\REPORT\preamble.tex
 ("C:\MiKTeX 2.9\tex\latex\base\article.cls"
-Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
 ("C:\MiKTeX 2.9\tex\latex\base\size10.clo"
-File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
 \c@section=\count80
@@ -32,15 +32,15 @@ File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 \bibindent=\dimen102
 )
 ("C:\MiKTeX 2.9\tex\latex\tools\calc.sty"
-Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count87
 \calc@Bcount=\count88
 \calc@Adimen=\dimen103
 \calc@Bdimen=\dimen104
 \calc@Askip=\skip43
 \calc@Bskip=\skip44
-LaTeX Info: Redefining \setlength on input line 76.
-LaTeX Info: Redefining \addtolength on input line 77.
+LaTeX Info: Redefining \setlength on input line 75.
+LaTeX Info: Redefining \addtolength on input line 76.
 \calc@Ccount=\count89
 \calc@Cskip=\skip45
 )
@@ -54,7 +54,7 @@ Excluding comment 'comment')
 Package: geometry 2010/09/12 v5.6 Page Geometry
 
 ("C:\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
-Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
 )
 ("C:\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
@@ -107,12 +107,12 @@ Package: lastpage 2013/01/28 v1.2l Refers to last page's name (HMM; JPG)
 \footpageshift=\skip58
 
 ("C:\MiKTeX 2.9\tex\latex\graphics\color.sty"
-Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+Package: color 2014/10/28 v1.1a Standard LaTeX Color (DPC)
 
 ("C:\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
 File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
-Package color Info: Driver file: pdftex.def on input line 130.
+Package color Info: Driver file: pdftex.def on input line 137.
 
 ("C:\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
@@ -333,38 +333,31 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 10.
 
-Underfull \hbox (badness 10000) in paragraph at lines 18--18
+Underfull \hbox (badness 10000) in paragraph at lines 17--17
 
  []
 
 
-Overfull \hbox (6.0pt too wide) in paragraph at lines 10--33
+Overfull \hbox (6.0pt too wide) in paragraph at lines 10--34
 [][] 
  []
 
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 43.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 44.
 ("C:\MiKTeX 2.9\tex\latex\base\omscmr.fd"
-File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 43.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 44.
 
-Overfull \hbox (3.91864pt too wide) in paragraph at lines 44--50
-[]\OT1/cmr/m/n/10 Ph.D., [][]\OT1/cmr/m/it/10 Ma-jor: \OT1/cmr/m/n/10 Cur-ricu-
-lum, In-struc-tion, & the Sci-ence of Learn-ing[][], \OT1/cmr/m/it/10 Ex-pected
-: \OT1/cmr/m/n/10 Sum-mer
+Overfull \hbox (27.17004pt too wide) in paragraph at lines 142--143
+[]\OT1/cmr/m/n/10 McVee, M. B., Mc-Grath, K., & Rinker, T. W. (re-vise and re-s
+ub-mit). A phe-nomeno-log-i-cal
  []
 
 [1
 
 {C:/Users/Tyler/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-Overfull \hbox (27.17004pt too wide) in paragraph at lines 141--142
-[]\OT1/cmr/m/n/10 McVee, M. B., Mc-Grath, K., & Rinker, T. W. (re-vise and re-s
-ub-mit). A phe-nomeno-log-i-cal
- []
-
-
-Overfull \hbox (16.73538pt too wide) in paragraph at lines 155--156
+Overfull \hbox (16.73538pt too wide) in paragraph at lines 156--157
 \OT1/cmr/m/it/10 Role of Teacher Feed-back Dur-ing Lit-er-acy In-struc-tion: Te
 n-sions Be-tween En-gage-ment,
  []
@@ -372,20 +365,20 @@ n-sions Be-tween En-gage-ment,
 [2] [3] 
 AED: lastpage setting LastPage
 [4]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 297.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 297.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 298.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 298.
  (C:\Users\Tyler\GitHub\cv\REPORT\curriculum_vitae_tyler_rinker.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 297.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 297.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 298.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 298.
 Package rerunfilecheck Info: File `curriculum_vitae_tyler_rinker.out' has not c
 hanged.
 (rerunfilecheck)             Checksum: B5FB01B945A355FF4861BCCDCEB155AF;833.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 297.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 298.
  ) 
 Here is how much of TeX's memory you used:
  5910 strings out of 493921
  87792 string characters out of 3152895
- 181759 words of memory out of 3000000
+ 181811 words of memory out of 3000000
  9147 multiletter control sequences out of 15000+200000
  5368 words of font info for 20 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
@@ -396,9 +389,9 @@ Here is how much of TeX's memory you used:
 TeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/MiKTeX 2.9/fonts/type1/publ
 ic/amsfonts/cm/cmsy10.pfb><C:/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.
 pfb><C:/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on curriculum_vitae_tyler_rinker.pdf (4 pages, 141831 bytes).
+Output written on curriculum_vitae_tyler_rinker.pdf (4 pages, 141820 bytes).
 PDF statistics:
- 174 PDF objects out of 1000 (max. 8388607)
+ 175 PDF objects out of 1000 (max. 8388607)
  27 named destinations out of 1000 (max. 500000)
  121 words of extra memory for PDF output out of 10000 (max. 10000000)
 
